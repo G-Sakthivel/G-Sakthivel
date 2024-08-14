@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m @SakthivelGnanavel
+- 🔭I'm currently pursuing the final year of B.E - Computer Science and Engineering
+- 👀 I’m interested in learning new things in the field of IT
+- 🌱 I’m currently learning Java Programming
 
 <!--
 **G-Sakthivel/G-Sakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
